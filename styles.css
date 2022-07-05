@@ -1,0 +1,28 @@
+body {
+  background-color: #EAF6F6;
+  color: black;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+hr {
+  border-color: silver;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+
+}
+h1 {
+  font-family: "Bogart";
+  color: #FF0063;
+  margin: 20px 20px 20px 0;
+  padding: 10px 0;
+}
+
+h2 {
+  font-family: timesRoman;
+  color: #66BFBF;
+  margin: 20px;
+  padding: 10px 0;
+}
